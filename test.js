@@ -1,1 +1,1 @@
-var http = re
+var http = require('http');
